@@ -1,0 +1,14 @@
+fastapi==0.80.0
+uvicorn
+opencv-python
+numpy
+mongoengine==0.27.0
+PyJWT
+Pillow==9.2.0
+pilgram==1.2.1
+
+ISR
+tensorflow==2.5.1
+pydantic==1.10.2
+typing
+tf_slim==1.1.0
